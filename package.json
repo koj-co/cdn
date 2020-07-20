@@ -1,0 +1,24 @@
+{
+  "name": "cdn",
+  "version": "0.0.0",
+  "description": "Reverse proxy server for CDN",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koj-co/cdn.git"
+  },
+  "keywords": [
+    "proxy",
+    "nodejs",
+    "cdn"
+  ],
+  "author": "Anand Chowdhary <mail@anandchowdhary.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koj-co/cdn/issues"
+  },
+  "homepage": "https://github.com/koj-co/cdn#readme"
+}
