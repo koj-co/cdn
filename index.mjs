@@ -10,10 +10,10 @@ http
       return response.end();
     }
     if (URL === "/") {
-      response.writeHead(302, {
-        Location: "https://koj.co",
+      response.writeHead(200, {
+        "Content-Type": "application/json",
       });
-      return response.end();
+      return response.end("{ ok: true }");
     }
     let result = [];
     var options = {
