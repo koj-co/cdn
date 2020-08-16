@@ -11,3 +11,12 @@ This repository contains the CDN server, a reverse proxy through Cloudinary. It'
 
 - Code: [MIT](./LICENSE) © [Koj](https://koj.co)
 - "Cloudinary" is a trademark of Cloudinary Ltd.
+
+<p align="center">
+  <a href="https://koj.co">
+    <img width="44" alt="Koj" src="https://kojcdn.com/v1593890002/website-v2/logo_mcxuwq.svg">
+  </a>
+</p>
+<p align="center">
+  <sub>An open source project by <a href="https://koj.co">Koj</a>. <br> <a href="https://koj.co">Furnish your home in style, for as low as CHF175/month →</a></sub>
+</p>
